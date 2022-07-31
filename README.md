@@ -1,9 +1,9 @@
 <p align="center">
-    <img src="https://telegra.ph/file/4bcad8eb70af16e75aaba.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="https://telegra.ph/file/26ea219bf87cdb0793907.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">KannaBOT - MD - V2</h1>
+<h1 align="center">ZennSky - Botz - V2</h1>
 <p align="center">
-  <a href="https://github.com/Jikarinka"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Kanna+BOT+Multi+Device;Base+ori+by+BochilGaming;Recode+By+Letta;Re-Recode+By+Jikarinka;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="UwU">
+  <a href="https://github.com/YogzFX"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Kanna+BOT+Multi+Device;Base+ori+by+BochilGaming;Recode+By+Letta;Re-Recode+By+YogzFX;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="UwU">
 </p>
 
 <p align="center">
@@ -14,21 +14,21 @@
 </p>
 ---------
 ## ```Connect With Me 📞``` <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="32px">
-  <a href="https://wa.me/6285334930628">
+  <a href="https://wa.me/6289510598381">
     <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
   </a> &nbsp;&nbsp;
-  <a href="https://www.tiktok.com/@kyo.tang">
+  <a href="https://www.tiktok.com/@yogzkyzx">
     <img align="left" alt="SIEGRIN | Titkok" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Tiktok.svg" />
   </a> &nbsp;&nbsp;
-  <a href="https://www.instagram.com/kontol_elite/">
+  <a href="https://www.instagram.com/karfuanyogich/">
     <img align="left" alt="SIEGRIN | Instagram" width="24px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
-  <a href="mailto: papamamaakupulang@gmail.com">
+  <a href="mailto: yogzkyz@gmail.com">
     <img align="left" alt="SIEGRIN | Gmail" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
 ---------
 
-## ```Whatsapp``` <a href="https://wa.me/6285334930628"> <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
+## ```Whatsapp``` <a href="https://wa.me/6289510598381"> <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
 [![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281336990781) 
 [![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285334930628) 
 [![GROUP OFFICIAL](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/FF1Bd1U0FHu42rfz6uplbn) 
@@ -37,28 +37,28 @@
 #### KELEBIHAN 📍
 | Kelebihan | Check |
 |--------|--------|
-| **Fast Respon** |[✔️](https://github.com/Jikarinka) |
-| **No Internet** |[✔️](https://github.com/Jikarinka) |
-| **Simple** |[✔️](https://github.com/Jikarinka) |
-| **Button template** |[✔️](https://github.com/Jikarinka) |
-| **Multi Device** |[✔️](https://github.com/Jikarinka) |
+| **Fast Respon** |[✔️](https://github.com/YogzFX) |
+| **No Internet** |[✔️](https://github.com/YogzFX) |
+| **Simple** |[✔️](https://github.com/YogzFX) |
+| **Button template** |[✔️](https://github.com/YogzFX) |
+| **Multi Device** |[✔️](https://github.com/YogzFX) |
 ---------
 #### FITUR 📍
 | Fitur | Check |
 |--------|--------|
-| **Downloader** |[✔️](https://github.com/Jikarinka) |
-| **Internet** |[✔️](https://github.com/Jikarinka) |
-| **Game Rpg** |[✔️](https://github.com/Jikarinka) |
-| **Nsfw** |[✔️](https://github.com/Jikarinka) |
-| **Sticker** |[✔️](https://github.com/Jikarinka) |
-| **Game** |[✔️](https://github.com/Jikarinka) |
-| **Kerang Ajaib** |[✔️](https://github.com/Jikarinka) |
-| **Quotes** |[✔️](https://github.com/Jikarinka) |
-| **Anime** |[✔️](https://github.com/Jikarinka) |
-| **Premium** |[✔️](https://github.com/Jikarinka) |
-| **Tools** |[✔️](https://github.com/Jikarinka) |
-| **Exec** |[✔️](https://github.com/Jikarinka) |
-| **React** |[✔️](https://github.com/Jikarinka) |
+| **Downloader** |[✔️](https://github.com/YogzFX) |
+| **Internet** |[✔️](https://github.com/YogzFX) |
+| **Game Rpg** |[✔️](https://github.com/YogzFX) |
+| **Nsfw** |[✔️](https://github.com/YogzFX) |
+| **Sticker** |[✔️](https://github.com/YogzFX) |
+| **Game** |[✔️](https://github.com/YogzFX) |
+| **Kerang Ajaib** |[✔️](https://github.com/YogzFX) |
+| **Quotes** |[✔️](https://github.com/YogzFX) |
+| **Anime** |[✔️](https://github.com/YogzFX) |
+| **Premium** |[✔️](https://github.com/YogzFX) |
+| **Tools** |[✔️](https://github.com/YogzFX) |
+| **Exec** |[✔️](https://github.com/YogzFX) |
+| **React** |[✔️](https://github.com/YogzFX) |
 ---------
 
 ## `SETTING`
