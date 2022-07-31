@@ -215,7 +215,7 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', null, [
       ['Hello', 'hello'], ['Bye', 'bye']
 ])
 // example button location
-conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/BochilGaming', 
+conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/YogzFX', 
       [['Hello', 'hello'], ['Bye', 'bye']], 
       null, { asLocation: true }
 )
@@ -243,7 +243,7 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 * [`KannaChan`](http://github.com/kannachann)
 
 ## ```Recode By 🐾```
-[![kannachann](https://github.com/Jikarinka.png?size=100)](http://github.com/kannachann)
+[![YogzFX](https://github.com/Jikarinka.png?size=100)](http://github.com/YogzFX)
 
 # ```Contributor 🔭```
 * [`The.Sad.Boy01`](https://github.com/Kangsad01)
